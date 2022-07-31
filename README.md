@@ -1,7 +1,7 @@
 # RustyScript
 
 # New Update
- Added ghostblock
- Fixed killaura
- Changed GUI text
- Changed keybinds (Can Now Be changed)
+ Added ghostblock n/
+ Fixed killaura n/
+ Changed GUI text n/
+ Changed keybinds (Can Now Be changed) n/
